@@ -79,7 +79,7 @@
     }
 
     /**
-     * This method converts the User data into a comma-separated value string
+     * This method converts the Contact into a comma-separated value string
      *
      * @returns {string}
      */
