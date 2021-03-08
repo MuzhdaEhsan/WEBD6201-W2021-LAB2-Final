@@ -1,7 +1,5 @@
 /**
  * Author - Muzhda Ehsan (100770164), Chibueze Momah (100771241)
- * Date - 2021-Mar-07
- * Program - LAB2
  */
 
 /* custom JavaScript goes here */
